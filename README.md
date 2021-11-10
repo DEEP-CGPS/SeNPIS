@@ -17,4 +17,4 @@ If you find this code useful in your research, please consider citing:
   publisher={..........}
 }
 
-In addition, in case you need the models already trained in pytorch of VGG16 and AlexNet, for Cifar-10 and Scene-15, with different pruning values (10, 30, 50, 70, 90)% Pn and Pn+FT presented in the paper you can download them from: ...
+In addition, in case you need the models already trained in pytorch of VGG16 and AlexNet, for Cifar-10 and Scene-15, with different pruning values (10, 30, 50, 70, 90)% Pn and Pn+FT presented in the paper you can download them from: https://drive.google.com/drive/folders/1ZBAE761KATOhjnI0tFV70LYs_tZE_-ku?usp=sharing
